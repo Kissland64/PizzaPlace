@@ -1,6 +1,6 @@
 using System.Text.Json;
 
-namespace Pizzeria.Model.Clientes
+namespace PizzaPlace.Shared.Clientes
 {
     public static class ExtensionDepuracion
     {
