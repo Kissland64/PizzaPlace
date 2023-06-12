@@ -14,5 +14,4 @@ namespace PizzaPlace.Shared
     public decimal Precio { get; }     
     public Picante Picante { get; }
   }
-  
 }
