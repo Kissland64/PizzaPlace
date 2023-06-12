@@ -8,4 +8,3 @@ namespace PizzaPlace.Shared
     public decimal PrecioTotal => Cesta.Pedidos.Sum(id => Menu.GetPizza(id)!.Precio);
   }
 }
-
